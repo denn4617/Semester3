@@ -1,0 +1,13 @@
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\Lecture1Exercise2\Lecture1Exercise2\bin\Debug\netcoreapp3.1\Lecture1Exercise2.exe
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\Lecture1Exercise2\Lecture1Exercise2\bin\Debug\netcoreapp3.1\Lecture1Exercise2.deps.json
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\Lecture1Exercise2\Lecture1Exercise2\bin\Debug\netcoreapp3.1\Lecture1Exercise2.runtimeconfig.json
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\Lecture1Exercise2\Lecture1Exercise2\bin\Debug\netcoreapp3.1\Lecture1Exercise2.runtimeconfig.dev.json
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\Lecture1Exercise2\Lecture1Exercise2\bin\Debug\netcoreapp3.1\Lecture1Exercise2.dll
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\Lecture1Exercise2\Lecture1Exercise2\bin\Debug\netcoreapp3.1\Lecture1Exercise2.pdb
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\Lecture1Exercise2\Lecture1Exercise2\obj\Debug\netcoreapp3.1\Lecture1Exercise2.csprojAssemblyReference.cache
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\Lecture1Exercise2\Lecture1Exercise2\obj\Debug\netcoreapp3.1\Lecture1Exercise2.AssemblyInfoInputs.cache
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\Lecture1Exercise2\Lecture1Exercise2\obj\Debug\netcoreapp3.1\Lecture1Exercise2.AssemblyInfo.cs
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\Lecture1Exercise2\Lecture1Exercise2\obj\Debug\netcoreapp3.1\Lecture1Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\Lecture1Exercise2\Lecture1Exercise2\obj\Debug\netcoreapp3.1\Lecture1Exercise2.dll
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\Lecture1Exercise2\Lecture1Exercise2\obj\Debug\netcoreapp3.1\Lecture1Exercise2.pdb
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\Lecture1Exercise2\Lecture1Exercise2\obj\Debug\netcoreapp3.1\Lecture1Exercise2.genruntimeconfig.cache

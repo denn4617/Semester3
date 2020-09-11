@@ -1,0 +1,12 @@
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\OpgaverTilKlasser\OpgaverTilKlasser\bin\Debug\netcoreapp3.1\OpgaverTilKlasser.exe
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\OpgaverTilKlasser\OpgaverTilKlasser\bin\Debug\netcoreapp3.1\OpgaverTilKlasser.deps.json
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\OpgaverTilKlasser\OpgaverTilKlasser\bin\Debug\netcoreapp3.1\OpgaverTilKlasser.runtimeconfig.json
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\OpgaverTilKlasser\OpgaverTilKlasser\bin\Debug\netcoreapp3.1\OpgaverTilKlasser.runtimeconfig.dev.json
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\OpgaverTilKlasser\OpgaverTilKlasser\bin\Debug\netcoreapp3.1\OpgaverTilKlasser.dll
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\OpgaverTilKlasser\OpgaverTilKlasser\bin\Debug\netcoreapp3.1\OpgaverTilKlasser.pdb
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\OpgaverTilKlasser\OpgaverTilKlasser\obj\Debug\netcoreapp3.1\OpgaverTilKlasser.AssemblyInfoInputs.cache
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\OpgaverTilKlasser\OpgaverTilKlasser\obj\Debug\netcoreapp3.1\OpgaverTilKlasser.AssemblyInfo.cs
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\OpgaverTilKlasser\OpgaverTilKlasser\obj\Debug\netcoreapp3.1\OpgaverTilKlasser.csproj.CoreCompileInputs.cache
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\OpgaverTilKlasser\OpgaverTilKlasser\obj\Debug\netcoreapp3.1\OpgaverTilKlasser.dll
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\OpgaverTilKlasser\OpgaverTilKlasser\obj\Debug\netcoreapp3.1\OpgaverTilKlasser.pdb
+C:\Users\denni\Desktop\Semester3\OOP\Lecture_01\OpgaverTilKlasser\OpgaverTilKlasser\obj\Debug\netcoreapp3.1\OpgaverTilKlasser.genruntimeconfig.cache
