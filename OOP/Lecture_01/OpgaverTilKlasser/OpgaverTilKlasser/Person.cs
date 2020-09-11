@@ -8,28 +8,32 @@ namespace OpgaverTilKlasser
     {
         public string fornavn;
         public string efternavn;
-        int alder;
+        int _alder;
+        public Person Far;
+        public Person Mor;
+
+        
 
         public Person(string fornavnNy, string efternavnNy, int alderNy)
         {
             this.fornavn = fornavnNy;
             this.efternavn = efternavnNy;
-            this.alder = alderNy;
+            _alder = alderNy;
         }
 
         public int Alder
         {
-            get { return alder; }
+            get { return _alder; }
             set
             {
-                if (value == 20)
+                if (value == null)
                 {
-                    alder = value;
+                    throw new ArgumentNullException("value");
                 }
-                //else
-                //{
-                //    alder = 11;
-                //}
+                else
+                {
+                    _alder = value;
+                }
             }
         }
     }
